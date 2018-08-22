@@ -2,6 +2,10 @@
 
 Minimal SPA example in Elm 0.19
 
+The example is taken from here:
+https://guide.elm-lang.org/webapps/navigation.html
+
+
 npm installer doesn't work yet, so need to install binaries manually.
 Here's how to do it on Linux:
 
